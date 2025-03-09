@@ -1,0 +1,9 @@
+;; Instruction formats.
+(type MInst
+  (enum 
+    (Nop0)
+    (Nop4)
+
+    ;; Load Imm
+  )
+)
